@@ -1,5 +1,11 @@
 public class project1{
 public static void main(String[] args) {
-    System.out.println("Hello world!");
+   test();
+}
+/**
+ * this is a test function
+ */
+public static void test(){
+    System.out.println("test");
 }
 }
